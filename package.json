@@ -1,0 +1,11 @@
+{
+  "name": "fedavg",
+  "version": "1.0.0",
+  "description": "详细教程：https://blog.csdn.net/AdamCY888/article/details/129470576",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
